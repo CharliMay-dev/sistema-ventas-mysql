@@ -46,3 +46,24 @@ Estudiante de Ingeniería en Sistemas.
 ## Archivo del proyecto
 
 `sistema_ventas.sql` contiene la exportación de la base de datos para su revisión y posible restauración en un servidor MySQL compatible.
+## Evidencias del proyecto
+
+### 1. Estructura de la base de datos
+
+![Tablas del sistema](capturas/01_tablas.png)
+
+### 2. Consulta de detalle de ventas con INNER JOIN
+
+![Detalle de ventas](capturas/02_detalle_ventas.png)
+
+### 3. Cálculo de totales por venta
+
+![Totales de ventas](capturas/03_totales_ventas.png)
+
+### 4. Clasificación del inventario
+
+![Estado del inventario](capturas/04_inventario.png)
+
+### 5. Análisis de clientes
+
+![Análisis de clientes](capturas/05_mejores_clientes.png)
